@@ -1,0 +1,11 @@
+VIM : Substituir todos os 7 por 8 em um arquivo.
+:%s/7/8/g
+
+VIM : Substituir todos os 7 por 8 em um arquivo.
+du -hs *| grep G
+
+VIM : Usando o vim para limpar linhas que iniciam com # 
+:g/^#/d
+
+VIM : Usado para limpar linhas vazias
+:%s/^$\n//g
