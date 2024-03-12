@@ -27,3 +27,7 @@ VIM : Substituir todos os 7 por 8 em um arquivo.
 VIM : Substituir todos os 7 por 8 em um arquivo.
 du -hs *| grep G
 
+Retornam o endereço IP público do servidor
+curl ifconfig.me
+
+
